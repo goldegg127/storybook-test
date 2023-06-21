@@ -1,0 +1,12 @@
+.nav {
+    display: flex;
+    background-color: bisque;
+}
+
+.nav a {
+    padding: 10px 20px;
+}
+
+.section {
+    margin-top: 20px;
+}

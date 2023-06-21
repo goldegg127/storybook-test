@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgb(var(--background-start-rgb));
+    color: rgb(var(--foreground-rgb));
+    font-size: var(--title-font-size);
+    padding: var(--container-y, --container-x);
+}
+  
+.nav {
+    display: flex;
+    gap: 16px;
+}
+  
+.pageLayout{
+    padding: var(--container-y, --container-x);
+}
